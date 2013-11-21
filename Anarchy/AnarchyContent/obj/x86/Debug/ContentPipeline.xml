@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Pictures\gb_walk.png</Source>
+      <Name>Pictures\gb_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\gb_walk.xnb</Output>
+      <Time>2013-09-23T08:58:14.3261206+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\Art_Anarchy.jpg</Source>
+      <Name>Pictures\Art_Anarchy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Art_Anarchy.xnb</Output>
+      <Time>2013-09-12T13:46:31.8947554+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\fireball.png</Source>
+      <Name>Pictures\fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\fireball.xnb</Output>
+      <Time>2013-10-07T09:43:37.3267441+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\Enemy.png</Source>
+      <Name>Pictures\Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Enemy.xnb</Output>
+      <Time>2013-10-14T09:00:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Pictures\demon.png</Source>
+      <Name>Pictures\demon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\demon.xnb</Output>
+      <Time>2013-10-14T11:26:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\MBD.mp3</Source>
+      <Name>Songs\MBD</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.xnb</Output>
+      <Extra>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.wma</Extra>
+      <Time>2013-09-16T15:00:59.7831608+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\Shotgun.mp3</Source>
+      <Name>sound\Shotgun</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\sound\Shotgun.xnb</Output>
+      <Time>2013-10-07T12:04:24.3594179+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\roar.mp3</Source>
+      <Name>sound\roar</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\sound\roar.xnb</Output>
+      <Time>2013-10-28T10:42:43.8061492+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\Bullittouch.mp3</Source>
+      <Name>sound\Bullittouch</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\sound\Bullittouch.xnb</Output>
+      <Time>2013-10-28T10:54:40.9110756+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\backsong.mp3</Source>
+      <Name>Songs\backsong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\backsong.xnb</Output>
+      <Extra>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\backsong.wma</Extra>
+      <Time>2013-11-14T13:51:51.9266985+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\Arial.spritefont</Source>
+      <Name>fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\fonts\Arial.xnb</Output>
+      <Time>2013-10-28T11:24:55.2075265+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\AnarchyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\AnarchyContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-08T09:34:16.739864+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

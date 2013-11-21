@@ -1,0 +1,90 @@
+c:\users\jason\documents\visual studio 2010\Projects\Anarchy\Anarchy\Anarchy\obj\x86\Debug\Anarchy.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2010\Projects\Anarchy\Anarchy\Anarchy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\jason\documents\visual studio 2010\Projects\Anarchy\Anarchy\Anarchy\bin\x86\Debug\Anarchy.exe
+c:\users\jason\documents\visual studio 2010\Projects\Anarchy\Anarchy\Anarchy\bin\x86\Debug\Anarchy.pdb
+c:\users\jason\documents\visual studio 2010\Projects\Anarchy\Anarchy\Anarchy\obj\x86\Debug\Anarchy.exe
+c:\users\jason\documents\visual studio 2010\Projects\Anarchy\Anarchy\Anarchy\obj\x86\Debug\Anarchy.pdb
+c:\users\jason\documents\visual studio 2010\Projects\Anarchy\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Art_Anarchy.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\Anarchy\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\Anarchy\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.wma
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\gb_walk.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Art_Anarchy.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.wma
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\Anarchy\bin\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\Anarchy\bin\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\Anarchy\obj\x86\Debug\Anarchy.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\Anarchy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\Anarchy\obj\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\Anarchy\obj\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\gb_walk.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Art_Anarchy.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.wma
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\Anarchy\bin\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\Anarchy\bin\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\Anarchy\obj\x86\Debug\Anarchy.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\Anarchy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\Anarchy\obj\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\Anarchy\obj\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\gb_walk.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Art_Anarchy.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.wma
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\Anarchy\bin\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\Anarchy\bin\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\Anarchy\obj\x86\Debug\Anarchy.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\Anarchy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\Anarchy\obj\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\Anarchy\obj\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\gb_walk.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Art_Anarchy.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.wma
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\bin\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\bin\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\obj\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\obj\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\fireball.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\Anarchy\bin\x86\Debug\Content\sound\Shotgun.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\gb_walk.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Art_Anarchy.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\fireball.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Enemy.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\sound\Shotgun.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.wma
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\obj\x86\Debug\Anarchy.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\obj\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\obj\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\demon.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\sound\roar.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\sound\Bullittouch.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\Anarchy\bin\x86\Debug\Content\fonts\Arial.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\gb_walk.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Art_Anarchy.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\fireball.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\Enemy.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Pictures\demon.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\sound\Shotgun.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\sound\roar.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\sound\Bullittouch.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\backsong.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\fonts\Arial.xnb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\MBD.wma
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Content\Songs\backsong.wma
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Anarchy.exe.manifest
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Anarchy.application
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\bin\x86\Debug\Anarchy.pdb
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\obj\x86\Debug\Anarchy.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\obj\x86\Debug\Anarchy.exe.manifest
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\obj\x86\Debug\Anarchy.application
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\obj\x86\Debug\Anarchy.exe
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\Anarchy\obj\x86\Debug\Anarchy.pdb

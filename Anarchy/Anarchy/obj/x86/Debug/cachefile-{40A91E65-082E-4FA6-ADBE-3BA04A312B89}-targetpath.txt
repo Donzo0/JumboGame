@@ -1,0 +1,13 @@
+Content\Pictures\gb_walk.xnb
+Content\Pictures\Art_Anarchy.xnb
+Content\Pictures\fireball.xnb
+Content\Pictures\Enemy.xnb
+Content\Pictures\demon.xnb
+Content\Songs\MBD.xnb
+Content\Songs\MBD.wma
+Content\sound\Shotgun.xnb
+Content\sound\roar.xnb
+Content\sound\Bullittouch.xnb
+Content\Songs\backsong.xnb
+Content\Songs\backsong.wma
+Content\fonts\Arial.xnb

@@ -1,0 +1,7 @@
+c:\users\jason\documents\visual studio 2010\Projects\Anarchy\Anarchy\AnarchyContent\obj\x86\Debug\AnarchyContent.contentprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.02\Anarchy\AnarchyContent\obj\x86\Debug\AnarchyContent.contentprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.03\Anarchy\AnarchyContent\obj\x86\Debug\AnarchyContent.contentprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.04\Anarchy\AnarchyContent\obj\x86\Debug\AnarchyContent.contentprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.05\Anarchy\AnarchyContent\obj\x86\Debug\AnarchyContent.contentprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.06\Anarchy\AnarchyContent\obj\x86\Debug\AnarchyContent.contentprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Visual Studio 2010\Projects\school\project 1\Anarchy alpha 1.08\Anarchy\AnarchyContent\obj\x86\Debug\AnarchyContent.contentprojResolveAssemblyReference.cache

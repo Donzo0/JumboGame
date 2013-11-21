@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anarchy", "Anarchy\Anarchy\Anarchy.csproj", "{57BEC925-263B-472F-9C74-5B89C3FE2BCC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AnarchyContent", "Anarchy\AnarchyContent\AnarchyContent.contentproj", "{40A91E65-082E-4FA6-ADBE-3BA04A312B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57BEC925-263B-472F-9C74-5B89C3FE2BCC}.Debug|x86.ActiveCfg = Debug|x86
+		{57BEC925-263B-472F-9C74-5B89C3FE2BCC}.Debug|x86.Build.0 = Debug|x86
+		{57BEC925-263B-472F-9C74-5B89C3FE2BCC}.Release|x86.ActiveCfg = Release|x86
+		{57BEC925-263B-472F-9C74-5B89C3FE2BCC}.Release|x86.Build.0 = Release|x86
+		{40A91E65-082E-4FA6-ADBE-3BA04A312B89}.Debug|x86.ActiveCfg = Debug|x86
+		{40A91E65-082E-4FA6-ADBE-3BA04A312B89}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
